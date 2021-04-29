@@ -1,0 +1,6 @@
+form {
+    display: none; /* retiré du flux (visibility: hidden; non retiré du flux)*/
+    }
+    .displayed {
+    display: initial;
+    }
